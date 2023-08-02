@@ -1,0 +1,12 @@
+---
+title:Hardware Diagram
+---
+
+classDiagram 
+System <|-- Linux PC
+System <|-- Wifi
+System <|-- Baton
+
+Baton <|-- Esp32
+Baton <|-- IMU
+Esp32--IMU
