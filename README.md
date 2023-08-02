@@ -13,6 +13,8 @@ Requirements must be S.M.A.R.T Specific. Measurable. Attainable (appropriate, ac
 - The baton should have a button to switch instruments.
 - The latency should be less than or equal to 100 milliseconds.
 - It should support multiple types of instruments: percussion, wind, and strings
+- The system should support a command-line interface for the app and a config file.
+
 
 ## SYSTEM DESIGN
   **Use-case Diagram**
